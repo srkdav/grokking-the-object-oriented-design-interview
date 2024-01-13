@@ -1,0 +1,6 @@
+1. Singleton & Factory are straight forward and pretty much needed across the design.
+2. Observer pattern : Notification System
+3. State Pattern: Change of Order status, shipment status etc.
+4. Strategy Pattern: Multiple pricing strategies, payment methods. etc
+  
+
