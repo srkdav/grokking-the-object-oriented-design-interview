@@ -28,3 +28,6 @@ Database schema, api contracts and pseudo code for some of the apis was expected
 18. How Different Dependent Projects Get Compiled?
 19. Design BookMyShow.
 20. Code Paint's Auto-fill color function
+21. Hashmap Internals, Java Memory Model, Garbage Collection Algorithm
+22.  online survey system like Survey Monkey
+23. Design Rate limiting system
