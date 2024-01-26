@@ -4,32 +4,30 @@ Possible LLD's :
 3. Low level design for garbage collector.
 4. Bike Rental : Similar to car rental : Q. https://leetcode.com/discuss/interview-question/4503513/Wayfair-or-L2-L4-or-Virual-Onsite-or-LLD-or-Bike-Rental-Shop
 5. Snake & Ladder game
+6. LLD of job scheduler
+7. Code Paint's Auto-fill color function
+8. Producer-Consumer problem of multithreading
+9. LLD design of JDBC type of service, SOLID Principles, Design patterns.
+10. Implement Logger service like log4j 
 
 
 ===============================================
-1.Design system to count clicks on a video
+1. Design system to count clicks on a video
 2. Design car ride booking system
-3. Producer-Consumer problem of multithreading
-4. Desing instagram
-5. LLD of job scheduler
-6. How would you compute the count of keyword given TB's of file. How would you optimize and then scale this solution.
-7. Design a meeting scheduler where a user can create a meeting, add participants and get to know the conflicts. Solution to be scalable. 
+3. Desing instagram
+4. How would you compute the count of keyword given TB's of file. How would you optimize and then scale this solution.
+5. Design a meeting scheduler where a user can create a meeting, add participants and get to know the conflicts. Solution to be scalable. 
 Database schema, api contracts and pseudo code for some of the apis was expected along wit an hld.
-8.  HLD for capturing files from different data sources (Followed by the question, how to maintain uniqueness if multiple files are similar)
-9. What makes the rendering slow on the client application
-10. LLD design of JDBC type of service, SOLID Principles, Design patterns.
-11. Spring internals, Db Internals
-12. DB design for Restaturent booking apps.
-13. Implement Logger service like log4j 
-14. designing housing.com 
-15. Design Parking lot HLD & LLD
-16. Design a unit conversion system
-17. How JVM Works Internally, How Hibernate Works Internally
-18. How Different Dependent Projects Get Compiled?
-19. Design BookMyShow.
-20. Code Paint's Auto-fill color function
-21. Hashmap Internals, Java Memory Model, Garbage Collection Algorithm
-22.  online survey system like Survey Monkey
-23. Design Rate limiting system
-24. Netflix/ Youtube
-25. Snake & Ladders (multiplayer)
+6.  HLD for capturing files from different data sources (Followed by the question, how to maintain uniqueness if multiple files are similar)
+7. What makes the rendering slow on the client application
+8. Spring internals, Db Internals
+9. DB design for Restaturent booking apps.
+10. designing housing.com 
+11. Design a unit conversion system
+12. How JVM Works Internally, How Hibernate Works Internally
+13. How Different Dependent Projects Get Compiled?
+14. Design BookMyShow.
+15. Hashmap Internals, Java Memory Model, Garbage Collection Algorithm
+16.  online survey system like Survey Monkey
+17. Design Rate limiting system
+18. Netflix/ Youtube
