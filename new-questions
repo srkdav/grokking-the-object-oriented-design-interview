@@ -15,17 +15,18 @@ Possible LLD's :
 1. Design system to count clicks on a video
 2. Design car ride booking system
 3. Desing instagram
-4. How would you compute the count of keyword given TB's of file. How would you optimize and then scale this solution.
-5. Design a meeting scheduler where a user can create a meeting, add participants and get to know the conflicts. Solution to be scalable. 
+4. Online survey system like Survey Monkey
+5. Design Rate limiting system
+6. Netflix/ Youtube
+7. DB design for Restaturent booking apps/ housing.com / BookMyShow.
+8. Design a unit conversion system
+
+9. Design a meeting scheduler where a user can create a meeting, add participants and get to know the conflicts. Solution to be scalable. 
 Database schema, api contracts and pseudo code for some of the apis was expected along wit an hld.
-6. HLD for capturing files from different data sources (Followed by the question, how to maintain uniqueness if multiple files are similar)
-7. What makes the rendering slow on the client application
-8. Spring internals, Db Internals
-9. DB design for Restaturent booking apps/ housing.com / BookMyShow.
-10. Design a unit conversion system
-11. How JVM Works Internally, How Hibernate Works Internally
-12. How Different Dependent Projects Get Compiled?
-13. Hashmap Internals, Java Memory Model, Garbage Collection Algorithm
-14. Online survey system like Survey Monkey
-15. Design Rate limiting system
-16. Netflix/ Youtube
+10. How would you compute the count of keyword given TB's of file. How would you optimize and then scale this solution.
+11. HLD for capturing files from different data sources (Followed by the question, how to maintain uniqueness if multiple files are similar)
+12. What makes the rendering slow on the client application
+13. Spring internals, Db Internals
+14. How JVM Works Internally, How Hibernate Works Internally
+15. How Different Dependent Projects Get Compiled?
+16. Hashmap Internals, Java Memory Model, Garbage Collection Algorithm
