@@ -9,7 +9,7 @@ Possible LLD's :
 8. Producer-Consumer problem of multithreading
 9. LLD design of JDBC type of service, SOLID Principles, Design patterns.
 10. Implement Logger service like log4j 
-
+11. ATM/Vending Machine
 
 ===============================================
 1. Design system to count clicks on a video
