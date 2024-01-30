@@ -1,15 +1,15 @@
 Possible LLD's :
-1. Design food delivery : https://medium.com/@mayankbansal933/food-delivery-app-lld-c1409ef49266
-2. Design Parking Lot but with conditions : 10 parking spots, only 1 vehicle type is available, single floor/entrance/exit.
-3. Low level design for garbage collector.
+1. Design Parking Lot but with conditions : 10 parking spots, only 1 vehicle type is available, single floor/entrance/exit.
+2. Snake & Ladder game
+3. ATM/Vending Machine
 4. Bike Rental : Similar to car rental : Q. https://leetcode.com/discuss/interview-question/4503513/Wayfair-or-L2-L4-or-Virual-Onsite-or-LLD-or-Bike-Rental-Shop
-5. Snake & Ladder game
-6. LLD of job scheduler
-7. Code Paint's Auto-fill color function
-8. Producer-Consumer problem of multithreading
-9. LLD design of JDBC type of service, SOLID Principles, Design patterns.
-10. Implement Logger service like log4j 
-11. ATM/Vending Machine
+5. Design food delivery : https://medium.com/@mayankbansal933/food-delivery-app-lld-c1409ef49266
+6. LLD design of JDBC type of service, SOLID Principles, Design patterns.
+7. Implement Logger service like log4j 
+8. Low level design for garbage collector.
+9. LLD of job scheduler
+10. Code Paint's Auto-fill color function
+11. Producer-Consumer problem of multithreading
 
 ===============================================
 1. Design system to count clicks on a video
