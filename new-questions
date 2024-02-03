@@ -20,6 +20,7 @@ Possible LLD's :
 6. Netflix/ Youtube
 7. DB design for Restaturent booking apps/ housing.com / BookMyShow.
 8. Design a unit conversion system
+8.1 WebCrawler
 
 9. Design a meeting scheduler where a user can create a meeting, add participants and get to know the conflicts. Solution to be scalable. 
 Database schema, api contracts and pseudo code for some of the apis was expected along wit an hld.
