@@ -31,3 +31,5 @@ Database schema, api contracts and pseudo code for some of the apis was expected
 14. How JVM Works Internally, How Hibernate Works Internally
 15. How Different Dependent Projects Get Compiled?
 16. Hashmap Internals, Java Memory Model, Garbage Collection Algorithm
+17.  Sort an array using two stacks. Provide time complexity.
+18. https://www.geeksforgeeks.org/binary-search-preferred-ternary-search/
